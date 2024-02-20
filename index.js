@@ -1,6 +1,6 @@
-// Solicita o nome e a quantidade de experiência do herói
-var nomeHeroi = prompt("Digite o nome do herói: ");
-var xpHeroi = parseInt(prompt("Digite a quantidade de experiência do herói: "));
+// Valores predefinidos para teste
+var nomeHeroi = "Superman";
+var xpHeroi = 7500;  // Altere este valor conforme necessário
 
 // Utiliza uma estrutura de decisão para determinar o nível do herói
 var nivel;
